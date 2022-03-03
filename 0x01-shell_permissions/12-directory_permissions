@@ -1,2 +1,2 @@
 #!/bin/bash
-my_dir drwxr-x--x
+mkdir -m751 my_dir
